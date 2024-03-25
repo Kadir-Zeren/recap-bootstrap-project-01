@@ -65,3 +65,10 @@ section#instructors i {
 section#instructors i:hover {
   opacity: 0.5;
 }
+
+.nav-pills .nav-link.active {
+  background-color: var(--red);
+}
+.nav-pills .nav-link {
+  color: white;
+}
